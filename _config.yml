@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: ARAM Blog
+SEOTitle: 一只公羊 的博客 | ARAM Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: suvancheng@gmail.com
+description: "这里是一只公羊的个🐑博客，与你一起发现更大的世界 | 终身学习"
+keyword: "一只公羊, @aram, 黑苹果, 固件开发, stm32, 博客, 芯片, ARAM Blog, GPU, 个人网站, 互联网, Web, JavaScript, C++, python, 前端, 设计"
+url: "https://suvancheng.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+#weibo_username: none
+#zhihu_username: none
+github_username: suvancheng
+#twitter_username: none
+#facebook_username:  none
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
